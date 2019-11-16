@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424105058377",
+    "firebase_url": "https://doctor-appointment-booki-576f1.firebaseio.com",
+    "project_id": "doctor-appointment-booki-576f1",
+    "storage_bucket": "doctor-appointment-booki-576f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424105058377:android:d22e7462378ef262fadf98",
+        "android_client_info": {
+          "package_name": "coms.example.asus.doctor_appointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424105058377-li6069bbge60pl7vdnunku6000v3r4sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "coms.example.asus.doctor_appointment",
+            "certificate_hash": "b495fc4ef5963b3271c785c860ab5f58a3f66204"
+          }
+        },
+        {
+          "client_id": "424105058377-di9mpjqggoo35sd1j76mf860h5qf6omu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgOzzDcCiNaRpm89ZJKAzS67ROQFlghWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424105058377-di9mpjqggoo35sd1j76mf860h5qf6omu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
