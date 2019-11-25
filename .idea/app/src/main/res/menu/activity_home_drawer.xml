@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_appoints"
+            android:icon="@drawable/orders"
+            android:iconTint="@android:color/white"
+            android:title="Appointments" />
+        <item
+            android:id="@+id/nav_cancel"
+            android:icon="@drawable/cancel"
+            android:iconTint="@android:color/black"
+            android:title="Cancel Appointment" />
+        <item
+            android:id="@+id/nav_review"
+            android:icon="@drawable/review"
+            android:iconTint="@android:color/black"
+            android:title="Review" />
+        <item
+            android:id="@+id/nav_edit_profile"
+            android:icon="@drawable/ic_menu_manage"
+            android:iconTint="@android:color/white"
+            android:title="Update Profile" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/share"
+            android:iconTint="@android:color/black"
+            android:title="Share" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:iconTint="@android:color/white"
+            android:title="Logout" />
+    </group>
+
+</menu>
